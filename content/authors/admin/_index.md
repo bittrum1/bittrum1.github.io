@@ -139,10 +139,10 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Hindi
+    percent: 100
+  - name: Marathi
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -178,4 +178,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm Rounak R. Pagare, a passionate and driven Third-year B.Tech student specializing in Electronics and Telecommunication Engineering. With a strong interest in embedded systems, AI, and innovation-driven projects, I’m always eager to explore new technologies and turn ideas into impactful solutions.
